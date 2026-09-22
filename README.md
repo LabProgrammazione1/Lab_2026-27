@@ -2,7 +2,7 @@
 
 ## Docenti e Tutor
 
-### Turno C (Cognomi da "L" a "Pa")
+### Turno C (Cognomi da "L" a "Pe")
 
 Docente: Lorenzo Capra
 
@@ -12,7 +12,7 @@ Ufficio: 5052 (ricevimento su appuntamento)
 
 Tutor: Omar Ghezzi
 
-### Turno D (Cognomi da "Pe" a "Z")
+### Turno D (Cognomi da "Pi" a "Z")
 
 Docente: Alessandro D'Amelio
 
