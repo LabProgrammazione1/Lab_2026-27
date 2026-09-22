@@ -10,7 +10,7 @@ Email: lorenzo.capra@unimi.it
 
 Ufficio: 5052 (ricevimento su appuntamento)
 
-Tutor: Omar Ghezzi
+Tutor: Federico Bruzzone
 
 ### Turno D (Cognomi da "Pi" a "Z")
 
@@ -20,7 +20,7 @@ Email: alessandro.damelio@unimi.it
 
 Ufficio: 4022 (ricevimento su appuntamento)
 
-Tutor: Federico Bruzzone
+Tutor: Omar Ghezzi
 
 ## Lezioni
 
