@@ -40,7 +40,7 @@ Orario: Ogni Venerdì, dalle 14.00 alle 17.30
 
 ### Aule
 
-Turno C: Aula DELTA Labc [Informatica - Celoria 18]
+Turno C: Aula OMEGA Labc [Informatica - Celoria 18]
 
 Turno D: Aula GAMMA Labc [Informatica - Celoria 18]
 
