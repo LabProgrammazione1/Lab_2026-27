@@ -427,19 +427,3 @@ Primo numero originale: 10
 Secondo numero originale: 15
 Terzo numero originale: 20
 ```
-
-##### Esempio d'esecuzione:
-
-```text
-$ go run decodifica.go
-Messaggio codificato: 768654
-Primo numero originale: 44
-Secondo numero originale: 76
-Terzo numero originale: 66
-
-$ go run decodifica.go
-Messaggio codificato: 302520
-Primo numero originale: 10
-Secondo numero originale: 15
-Terzo numero originale: 20
-```
