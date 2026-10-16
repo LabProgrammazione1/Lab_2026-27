@@ -10,7 +10,7 @@ Email: lorenzo.capra@unimi.it
 
 Ufficio: 5052 (ricevimento su appuntamento)
 
-Tutor: Federico Bruzzone
+Tutor: Riccardo Marantonio
 
 ### Turno D (Cognomi da "Pi" a "Z")
 
